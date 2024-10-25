@@ -110,3 +110,15 @@ O sistema "Gerenciador de Hardware para Laboratórios" deve facilitar o controle
 6.1. Integração com Sistemas Externos 🌐
 RI-01: Possibilitar integração com sistemas de gestão de laboratórios existentes.
 RI-02: Permitir importação e exportação de dados via APIs.
+
+
+
+
+
+**MODELO CONCEITUAL BANCO DE DADOS:**
+
+
+
+
+![image](https://github.com/user-attachments/assets/64bea633-19b8-459c-a136-6af49ab61a12)
+
