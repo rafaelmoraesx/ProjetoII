@@ -241,3 +241,11 @@ GROUP BY l.id_laboratorio, l.nome
 ORDER BY quantidade_maquinas DESC;
 
 select * from usuarios
+
+
+
+**MODELO LÓGICO**
+
+
+(https://github.com/user-attachments/assets/646a3cd9-09dd-4333-8f06-21dab01f076f)
+
