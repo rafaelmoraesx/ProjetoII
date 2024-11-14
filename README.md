@@ -125,7 +125,7 @@ RI-02: Permitir importação e exportação de dados via APIs.
 
 
 
-**SQL**
+**SQL:**
 
 create database gerenciadorhard;
 
