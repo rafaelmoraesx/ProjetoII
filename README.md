@@ -244,7 +244,7 @@ select * from usuarios
 
 
 
-**MODELO LÓGICO**
+**MODELO LÓGICO:**
 
 
 ![image](https://github.com/user-attachments/assets/646a3cd9-09dd-4333-8f06-21dab01f076f)
